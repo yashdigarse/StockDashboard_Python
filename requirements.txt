@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 yfinance
-plotly
+plotly.express
 datetime
 ta
 xgboost
