@@ -2,3 +2,8 @@ streamlit
 pandas
 numpy
 yfinance
+plotly
+datetime
+ta
+xgboost
+scikit-learn
